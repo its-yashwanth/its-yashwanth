@@ -4,7 +4,7 @@
 
 
 - A tech enthusiast, always eager to dive deeper into the world of programming.  
-- 🎓 Third-year CSE student at **PES University**, Bengaluru.  
+- 🎓 Fourth-year CSE student at **PES University**, Bengaluru.  
 - 🌐 Check out my portfolio: [yashwanthhs.vercel.app](https://yashwanthhs.vercel.app)
 
 <br/>
